@@ -16,3 +16,6 @@
     -moz-border-radius-bottomright: 6px;
     -moz-border-radius-bottomleft: 10px;
 }
+body{
+    float: right;
+}
